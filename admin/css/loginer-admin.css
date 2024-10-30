@@ -1,0 +1,432 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .form-options th{
+	text-align: left;
+	padding-bottom: 15px;
+	padding-top:15px;
+}
+.form-options td{
+	text-align: right;
+	padding-bottom: 15px;
+	padding-top:15px;
+}
+#form-style-options{
+	height: auto;
+	width: 66%;
+	float: left;
+}
+.text-inputs
+{
+	width:100%;
+	height:auto;
+	margin: 10px 0;
+}
+.text-inputs input
+{
+	height: 40px;
+	padding: 10px;
+	border-radius: 2px;
+}
+.custom-setting-page {
+	margin: 15px;
+	background-color: #ffffff;
+	padding: 20px;
+	min-height: auto;
+	border:1px solid #696969;
+}
+.custom-sub-options-settings {
+	margin-left: 15px;
+}
+input:disabled{
+	border-color: rgba(188, 178, 178, 0.6);
+}
+.custom-option-outer
+{
+	margin: 15px auto;
+	padding: 15px;
+}
+#shadow-color{
+	display: none;
+}
+.custom-row {
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin-top:-3px;
+}
+#form-preview h2::before, #form-preview h1::before {
+	content: "";
+	background: transparent;
+}
+.password-options{
+margin: 10px 0;
+}
+.password-options input[type=checkbox]{
+	margin: 5px 0;
+}
+.block
+{
+-ms-flex: 47%; /* IE10 */
+flex: 47%;
+max-width: 48%;
+}
+
+@media(max-width:992px) {
+	.block {
+		max-width: 100%
+	}
+}
+
+.custom-options {
+	margin: 7px 10px;
+	width: 50%;
+	box-sizing: border-box;
+}
+.custom-column-12 {
+	width: 100%;
+	max-width:100%;
+	margin:0;
+}
+.custom-blocks {
+	border: 1px solid #E3E3E3;
+	padding: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	margin-bottom:7px;
+	margin-bottom: 12px;
+}
+.custom-heading-box {
+	width:  100%;
+	margin-top: 7px;
+}
+.form-options{
+	/* float: left; */
+	width: 100%;
+}
+.heading-options{
+	width: 150px;
+	float: left;
+	margin: 6px;
+}
+
+iframe
+{
+	width:1200px;
+	height: 1400px;
+	margin-top: 5px;
+	border: 1px solid #ABABAB;
+}
+
+/* .wp-picker-active
+{
+	position: absolute;
+} */
+
+.margin-padding-input-wrapper ul li {
+	display: inline;
+	list-style: none;
+}
+.margin-padding-input-wrapper li {
+	float: left;
+	width: 20%;
+}
+.margin-padding-input-wrapper li:first-child input {
+	border-left: 1px solid #d5dadf;
+	-webkit-border-radius: 3px 0 0 3px;
+	border-radius: 3px 0 0 3px;
+}
+.margin-padding-input-wrapper li input {
+	border-left: none;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	padding: 4px 0;
+}
+.margin-padding-option-label {
+	display: block;
+	text-align: center;
+	color: #717171;;
+	font-size: 9px;
+	padding-top: 5px;
+}
+.margin-padding-input-wrapper li input, .margin-padding-input-wrapper li .margin-padding-link {
+	display: block;
+	text-align: center;
+	width: 100%;
+	border-color: #d5dadf;
+	border-left-color: rgb(213, 218, 223);
+	height: 30px;
+}
+.options-unlinked {
+	display: none;
+}
+#admin-css, #public-css, #theme-css{
+	display: none;
+}
+
+.buttons_area
+{
+	float:right;
+	margin-right: 15px;
+}
+.buttons_area .submit
+{
+	float:left;
+}
+.reset_allign
+{
+	float: left;
+	margin:30px 0 0 15px
+}
+.ui-state-default a, .ui-state-default a:link
+{
+	color:black;
+}
+.ui-state-active a, .ui-state-active a:link
+{
+	color:black
+}
+.ui-tabs .ui-state-active, .ui-state-active, .ui-widget-header .ui-state-active
+{
+	border: black;
+	border-bottom: none;
+	background: transparent;
+	font-weight: normal;
+	color: #ffffff;
+}
+.ui-widget-content
+{
+	background: transparent;
+}
+.ui-widget-header
+{
+	border: none;
+	background: transparent;
+	color: #333333;
+	font-weight: bold;
+}
+.ui-corner-top
+{
+	border-radius: 0;
+}
+.ui-widget.ui-widget-content , .ui-corner-all , .ui-widget-content
+{
+	border:none;
+	width: 100%;
+	box-sizing: border-box;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active
+{
+	border-top: 1px solid #ABABAB;
+	border-right: none;
+	border-left: 1px solid #ABABAB;
+	border-bottom: 1px solid #ABABAB;
+	background: #0073aa;
+}
+.ui-tabs .ui-tabs-nav li
+{
+	list-style: none;
+	float: none;
+	position: relative;
+	top: 0;
+	margin:0px;
+	padding: 10px;
+	white-space: nowrap;
+	background-color:rgb(228,228,228);
+}
+
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+	float: none;
+	padding: 0;
+	text-decoration: none;
+}
+.outer
+{
+	background: white;
+	border: 1px solid #ABABAB;
+	padding:15px;
+	width: 100%;
+	box-sizing: border-box;
+}
+.submenu-outer
+{
+	background: white;
+	border: 1px solid #ABABAB;
+	width: 100%;
+	padding:15px 0 15px 15px;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a:focus, .ui-tabs-nav li a:focus
+{
+	box-shadow: none;
+}
+.iframe-outer
+{
+	background: white;
+}
+.left
+{
+	float: left;
+}
+.right
+{
+	float: right;
+}
+.submenustyle
+{
+	width: 100%;
+	height: auto;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.tab-section
+{
+	width:25%;
+	float:left;
+	box-sizing: border-box;
+}
+.submenu-tab-section
+{
+	width:20%;
+	float:left;
+	box-sizing: border-box;
+}
+.submenu-tab-section ul {
+    border-bottom: 1px solid #ABABAB;
+}
+.content-section
+{
+	float: left;
+	width: 78%;
+	box-sizing: border-box;
+	margin-top: -13px;
+	margin-left: -19px;
+	margin-right: -21px;
+}
+.submenu-content-section
+{
+	float: left;
+	width: 81%;
+	box-sizing: border-box;
+	margin-top: -13px;
+margin-left: -19.5px;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+	padding-bottom: 10px;
+}
+.tab-section ul 
+{
+	border-bottom: 1px solid #ABABAB;
+
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor
+{
+	color:white
+}
+/* Tab Accordian work */ 
+.close .panel{
+    height:0px;
+    transition:height 1s ease-out;
+    -webkit-transform: scaleY(0);
+	-o-transform: scaleY(0);
+	-ms-transform: scaleY(0);
+	transform: scaleY(0);
+    float:left;
+    display:block;
+    
+    
+}
+.open .panel{
+width: 100%;
+-webkit-transform: scaleY(1);
+-o-transform: scaleY(1);
+-ms-transform: scaleY(1);
+transform: scaleY(1);
+-webkit-transform-origin: top;
+-o-transform-origin: top;
+-ms-transform-origin: top;
+transform-origin: top;
+-webkit-transition: -webkit-transform 0.4s ease-out;
+-o-transition: -o-transform 0.4s ease;
+-ms-transition: -ms-transform 0.4s ease;
+transition: transform 0.4s ease;
+box-sizing: border-box;
+}
+
+.custom-blocks.open
+{
+	border-bottom: 2px groove #E3E3E3;
+}
+.panel {
+	padding: 0 18px;
+	background-color: white;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+  }
+
+  tr.line th,  tr.line td {
+	border-top: 1px solid #E3E3E3;
+	margin-bottom: 15px;
+	
+  }
+ .subheadings
+ {
+	 font-weight: normal;
+	 padding-left:15px;
+	padding-right: 15px;
+ }
+ .margin-padding-dimensions
+ {
+	width: 50%;
+	float:right;
+	height: 35px;
+ }
+ 
+ .login-deshicon
+ {
+	margin-top: 3px;
+	color:black;
+ }
+ .heading-padding
+ {
+	padding-bottom: 0px !important;
+ }
+ .pages-select-box
+ {
+	 width:180px;
+ }
+ .wp-picker-container .wp-color-result.button
+ {
+	 margin:0;
+ }
+ select {
+	margin: 0;
+ }
+ .ui-tabs .ui-tabs-nav
+ {
+	 padding:0;
+ }
+input::placeholder
+{
+	line-height: inherit !important;
+}
+ #login-form-tabs ul.ui-tabs-nav li a.ui-tabs-anchor {
+    font-size: 13px;
+}
+.login-accordion #arrowup::before,.custom-blocks.open .login-accordion #arrowdown::before
+{
+	display: none;
+}
+.login-accordion #arrowdown::before,.custom-blocks.open .login-accordion #arrowup::before
+{
+	display: block;
+}
+.login-accordion #arrowup
+{
+	margin-right: -20px;
+}
+#form-preview .custom-form {
+    margin: 0 10px;
+	width:auto;
+}

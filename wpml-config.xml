@@ -1,0 +1,21 @@
+<wpml-config>
+<admin-texts>
+      <key name="LOGINER_SETTING_OPTIONS_GROUP">
+        <key name="headings">
+          <key name="*"/>
+        </key>
+        <key name="labels">
+          <key name="*"/>
+        </key>
+        <key name="errormsg">
+          <key name="*"/>
+        </key>
+        <key name="placeholder">
+          <key name="*"/>
+        </key>
+        <key name="formstyle">
+          <key name="*"/>
+        </key>
+      </key>
+</admin-texts>
+</wpml-config>

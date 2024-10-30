@@ -1,0 +1,736 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 15:18+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-loginer-admin.php:126
+msgid "Loginer"
+msgstr ""
+
+#: admin/class-loginer-admin.php:127
+#: admin/partials/loginer-admin-form-option.php:29
+msgid "Loginer Setting Options"
+msgstr ""
+
+#: admin/class-loginer-admin.php:127
+msgid "Form Style"
+msgstr ""
+
+#: admin/class-loginer-admin.php:128
+msgid "Setting"
+msgstr ""
+
+#: admin/class-loginer-admin.php:128 admin/class-loginer-admin.php:135
+#: admin/class-sub-loginer-admin.php:53
+#: admin/partials/loginer-admin-submenu-option.php:23
+msgid "Settings"
+msgstr ""
+
+#: admin/class-sub-loginer-admin.php:31
+msgid "Sign In Page"
+msgstr ""
+
+#: admin/class-sub-loginer-admin.php:32
+msgid "Profile Page"
+msgstr ""
+
+#: admin/class-sub-loginer-admin.php:33
+msgid "Registration Page"
+msgstr ""
+
+#: admin/class-sub-loginer-admin.php:34
+msgid "Reset Password Page"
+msgstr ""
+
+#: admin/class-sub-loginer-admin.php:35
+msgid "Forgot Password Page"
+msgstr ""
+
+#: admin/option-functions.php:47
+msgid "None"
+msgstr ""
+
+#: admin/option-functions.php:48
+msgid "Solid"
+msgstr ""
+
+#: admin/option-functions.php:49
+msgid "Double"
+msgstr ""
+
+#: admin/option-functions.php:50
+msgid "Groove"
+msgstr ""
+
+#: admin/option-functions.php:67
+msgid "Paragraph & Messages"
+msgstr ""
+
+#: admin/option-functions.php:80 admin/partials/add-class.php:30
+msgid "Label"
+msgstr ""
+
+#: admin/option-functions.php:159 admin/option-functions.php:193
+msgid "Margin"
+msgstr ""
+
+#: admin/option-functions.php:171 admin/option-functions.php:205
+msgid "Padding"
+msgstr ""
+
+#: admin/partials/add-class.php:20
+msgid ""
+"Add multiple classes and your own custom CSS with ease to make it more "
+"personalized."
+msgstr ""
+
+#: admin/partials/add-class.php:22
+#: admin/partials/loginer-admin-form-option.php:109
+msgid "Form"
+msgstr ""
+
+#: admin/partials/add-class.php:26
+#: admin/partials/loginer-admin-form-option.php:204
+msgid "Heading"
+msgstr ""
+
+#: admin/partials/add-class.php:34
+#: admin/partials/loginer-admin-form-option.php:237
+msgid "Button"
+msgstr ""
+
+#: admin/partials/add-class.php:38
+msgid "Input"
+msgstr ""
+
+#: admin/partials/add-class.php:42
+msgid "Add Custom CSS"
+msgstr ""
+
+#: admin/partials/border-options.php:18
+msgid "Border"
+msgstr ""
+
+#: admin/partials/border-options.php:21
+msgid "Thickness"
+msgstr ""
+
+#: admin/partials/border-options.php:25
+#: admin/partials/loginer-admin-form-option.php:131
+#: admin/partials/loginer-admin-form-option.php:289
+msgid "Color"
+msgstr ""
+
+#: admin/partials/border-options.php:31
+msgid "Style"
+msgstr ""
+
+#: admin/partials/border-options.php:37
+msgid "Radius"
+msgstr ""
+
+#: admin/partials/demo-forms.php:26 admin/partials/demo-forms.php:27
+#: admin/partials/loginer-admin-form-option.php:70
+#: admin/partials/loginer-admin-form-option.php:99
+#: public/partials/lost-password-form.php:19
+#: public/partials/lost-password-form.php:20
+#: public/partials/user-login-form.php:27
+#: public/partials/user-login-form.php:28
+msgid "Email or Username"
+msgstr ""
+
+#: admin/partials/demo-forms.php:33 admin/partials/demo-forms.php:74
+#: admin/partials/demo-forms.php:75
+#: admin/partials/loginer-admin-form-option.php:70
+#: admin/partials/loginer-admin-form-option.php:99
+#: public/partials/user-login-form.php:34
+#: public/partials/user-login-form.php:35
+#: public/partials/user-registration-form.php:36
+#: public/partials/user-registration-form.php:37
+msgid "Password"
+msgstr ""
+
+#: admin/partials/demo-forms.php:41 public/partials/user-login-form.php:45
+msgid "Forgot your password?"
+msgstr ""
+
+#: admin/partials/demo-forms.php:44 public/partials/user-login-form.php:49
+msgid "Register Now"
+msgstr ""
+
+#: admin/partials/demo-forms.php:59 admin/partials/demo-forms.php:60
+#: admin/partials/loginer-admin-form-option.php:70
+#: admin/partials/loginer-admin-form-option.php:99
+#: public/partials/user-account-form.php:34
+#: public/partials/user-registration-form.php:21
+#: public/partials/user-registration-form.php:22
+msgid "Username"
+msgstr ""
+
+#: admin/partials/demo-forms.php:63 admin/partials/demo-forms.php:64
+#: admin/partials/loginer-admin-form-option.php:70
+#: admin/partials/loginer-admin-form-option.php:99
+#: public/partials/user-account-form.php:88
+#: public/partials/user-registration-form.php:25
+#: public/partials/user-registration-form.php:26
+msgid "Email"
+msgstr ""
+
+#: admin/partials/demo-forms.php:79 admin/partials/demo-forms.php:80
+#: admin/partials/loginer-admin-form-option.php:70
+#: admin/partials/loginer-admin-form-option.php:99
+#: public/partials/user-registration-form.php:41
+#: public/partials/user-registration-form.php:42
+msgid "Confirm Password"
+msgstr ""
+
+#: admin/partials/demo-forms.php:83
+#: public/partials/user-registration-form.php:46
+msgid "Registration confirmation will be sent by email."
+msgstr ""
+
+#: admin/partials/demo-forms.php:85
+#: public/partials/user-registration-form.php:48
+msgid "Register"
+msgstr ""
+
+#: admin/partials/demo-forms.php:113 admin/partials/demo-forms.php:114
+#: admin/partials/loginer-admin-form-option.php:70
+#: admin/partials/loginer-admin-form-option.php:99
+#: public/partials/reset-password-form.php:30
+#: public/partials/reset-password-form.php:31
+msgid "New Password"
+msgstr ""
+
+#: admin/partials/demo-forms.php:117
+#: admin/partials/loginer-admin-form-option.php:70
+msgid "Repeat New Password"
+msgstr ""
+
+#: admin/partials/demo-forms.php:118
+#: admin/partials/loginer-admin-form-option.php:99
+#: public/partials/reset-password-form.php:34
+#: public/partials/reset-password-form.php:35
+msgid "Confirm New Password"
+msgstr ""
+
+#: admin/partials/demo-forms.php:124
+#: admin/partials/loginer-admin-form-option.php:59
+#: admin/partials/loginer-admin-submenu-option.php:47
+#: includes/class-loginer.php:270 public/partials/lost-password-form.php:24
+#: public/partials/reset-password-form.php:41
+msgid "Reset Password"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:20
+msgid "Form Heading"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:21
+msgid "Labels"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:22
+msgid "Error / Success Messages"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:23
+msgid "Placeholders"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:24
+msgid "Form Styles"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:25
+msgid "HTML Classes"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:51
+msgid "Give a suitable form heading."
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:56
+msgid "Show Form Title"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:59
+#: includes/class-loginer.php:267 public/partials/user-login-form.php:42
+msgid "Sign In"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:59
+#: admin/partials/loginer-admin-submenu-option.php:47
+#: includes/class-loginer.php:268
+msgid "Registration"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:59
+#: admin/partials/loginer-admin-submenu-option.php:47
+#: includes/class-loginer.php:269
+msgid "Forgot Password"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:59
+#: admin/partials/loginer-admin-submenu-option.php:47
+#: includes/class-loginer.php:271
+msgid "Profile"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:68
+msgid "You can change labels to be shown on your form."
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:78
+msgid ""
+"You can change the error/success messages that are shown on the form "
+"submission."
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:79
+msgid "Error Messages"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Already Loggedin"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Empty Username"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Empty Password"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Invalid Username"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Invalid Email"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "No User Registered"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Incorrect Password"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "User Already Exists"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Email Already Exists"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Registration Closed"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Expired Password Reset URL"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Invalid Password Reset URL"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:81
+msgid "Password and Confirm Password doesn't Match"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:86
+msgid "Success Messages"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:88
+msgid "Logged Out"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:88
+msgid "Registered"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:88
+msgid "Password Link Sent"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:88
+msgid "Password Reset"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:97
+msgid "You can change the placeholder values."
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:107
+msgid ""
+"You can personalize your login page/form with matching colors, fonts, and "
+"effects same as your theme."
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:116
+#: admin/partials/loginer-admin-form-option.php:159
+#: admin/partials/loginer-admin-form-option.php:218
+#: admin/partials/loginer-admin-form-option.php:250
+msgid "Background Color"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:124
+msgid "Shadow"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:127
+msgid "Enable Shadow"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:145
+msgid "Input Box"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:153
+#: admin/partials/loginer-admin-form-option.php:212
+#: admin/partials/loginer-admin-form-option.php:243
+#: admin/partials/loginer-admin-form-option.php:271
+#: admin/partials/paragraph-label-options.php:23
+msgid "Font Size"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:159
+#: admin/partials/loginer-admin-form-option.php:219
+#: admin/partials/loginer-admin-form-option.php:250
+#: admin/partials/loginer-admin-form-option.php:276
+#: admin/partials/paragraph-label-options.php:19
+msgid "Font Color"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:162
+msgid "Focus Background Color"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:162
+msgid "Focus Text Color"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:162
+msgid "Focus Border Color"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:172
+msgid "Only Bottom Border"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:179
+msgid "Paragraph, Messages & Label"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:250
+msgid "Hover Background Color"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:250
+#: admin/partials/loginer-admin-form-option.php:276
+msgid "Hover Font Color"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:263
+msgid "Link"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:283
+msgid "Required Field"
+msgstr ""
+
+#: admin/partials/loginer-admin-form-option.php:305
+msgid "Reset All Changes"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:17
+msgid "General"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:18
+msgid "Pages"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:45
+msgid ""
+"You can select the pages where you want to show Login/Registration form."
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:47
+msgid "Sign in"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:55
+msgid "Select the role that you want to restrict from Dashboard"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:57
+msgid "Restrict User From Dashboard"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:86
+msgid "Select to show/hide password fields in the registration form"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:88
+msgid "Password Field"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:91
+msgid "Show Password fields in Registration Form"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:91
+msgid "Add Password Strength Meter"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:95
+msgid "Set the minimum required password strength."
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:99
+msgid "Choose Minimum Strength"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:104
+msgid "Short"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:104
+msgid "Bad"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:104
+msgid "Good"
+msgstr ""
+
+#: admin/partials/loginer-admin-submenu-option.php:104
+msgid "Strong"
+msgstr ""
+
+#: includes/class-loginer.php:273
+msgid "You are Already Logged in."
+msgstr ""
+
+#: includes/class-loginer.php:274
+msgid "Username can not be Empty."
+msgstr ""
+
+#: includes/class-loginer.php:275
+msgid "Password can not be Empty."
+msgstr ""
+
+#: includes/class-loginer.php:276
+msgid "Invalid Username."
+msgstr ""
+
+#: includes/class-loginer.php:277
+msgid "Invalid Email."
+msgstr ""
+
+#: includes/class-loginer.php:278
+msgid "No user registered with this Email."
+msgstr ""
+
+#: includes/class-loginer.php:279
+msgid "Incorrect Password."
+msgstr ""
+
+#: includes/class-loginer.php:280
+msgid "An account exists with this username."
+msgstr ""
+
+#: includes/class-loginer.php:281
+msgid "An account exists with this email address."
+msgstr ""
+
+#: includes/class-loginer.php:282 templates/custom-register-form.php:22
+msgid "Registering new users is currently not allowed."
+msgstr ""
+
+#: includes/class-loginer.php:283
+msgid "Password reset Link Expired."
+msgstr ""
+
+#: includes/class-loginer.php:284
+msgid "Password reset Link is Not Valid."
+msgstr ""
+
+#: includes/class-loginer.php:285
+msgid "Password and Confirm Password do not match."
+msgstr ""
+
+#: includes/class-loginer.php:287
+msgid "You are now logged out."
+msgstr ""
+
+#: includes/class-loginer.php:288
+msgid "Registration complete please check your email."
+msgstr ""
+
+#: includes/class-loginer.php:289
+msgid "Your password has been reset."
+msgstr ""
+
+#: includes/class-loginer.php:290
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: public/class-loginer-public.php:130
+#, php-format
+msgid "Welcome to %s! Here's your log in credentials:"
+msgstr ""
+
+#: public/class-loginer-public.php:133
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: public/class-loginer-public.php:135
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: public/class-loginer-public.php:137
+#, php-format
+msgid "If you have any problems, please contact at %s."
+msgstr ""
+
+#: public/class-sub-loginer.php:50
+msgid "An unknown error occurred. Please try again later."
+msgstr ""
+
+#: public/partials/user-account-form.php:23
+msgid " You are now logged out everywhere else."
+msgstr ""
+
+#: public/partials/user-account-form.php:32
+msgid "Name"
+msgstr ""
+
+#: public/partials/user-account-form.php:35
+msgid "Username cannot be changed."
+msgstr ""
+
+#: public/partials/user-account-form.php:38
+msgid "First Name"
+msgstr ""
+
+#: public/partials/user-account-form.php:42
+msgid "Last Name"
+msgstr ""
+
+#: public/partials/user-account-form.php:46
+msgid "Nick Name"
+msgstr ""
+
+#: public/partials/user-account-form.php:50
+msgid "Display Name"
+msgstr ""
+
+#: public/partials/user-account-form.php:86
+msgid "Contact Info"
+msgstr ""
+
+#: public/partials/user-account-form.php:92
+msgid "Website"
+msgstr ""
+
+#: public/partials/user-account-form.php:95
+msgid "About Yourself"
+msgstr ""
+
+#: public/partials/user-account-form.php:97
+msgid "Biographical Info"
+msgstr ""
+
+#: public/partials/user-account-form.php:101
+msgid "Profile Picture"
+msgstr ""
+
+#: public/partials/user-account-form.php:108
+#, php-format
+msgid "You can change your profile picture on <a href=\"%s\">Gravatar</a>."
+msgstr ""
+
+#: public/partials/user-account-form.php:128
+msgid "Account Management"
+msgstr ""
+
+#: public/partials/user-account-form.php:133
+#: public/partials/user-account-form.php:139
+msgid "Sessions"
+msgstr ""
+
+#: public/partials/user-account-form.php:134
+#: public/partials/user-account-form.php:140
+msgid "Log Out Everywhere Else"
+msgstr ""
+
+#: public/partials/user-account-form.php:136
+msgid "You are only logged in at this location."
+msgstr ""
+
+#: public/partials/user-account-form.php:142
+msgid ""
+"Did you lose your phone or leave your account logged in at a public "
+"computer? You can log out everywhere else, and stay logged in here."
+msgstr ""
+
+#: public/partials/user-account-form.php:188
+msgid "Additional Capabilities"
+msgstr ""
+
+#: public/partials/user-account-form.php:190
+msgid "Capabilities"
+msgstr ""
+
+#: public/partials/user-account-form.php:200
+#, php-format
+msgid "Denied: %s"
+msgstr ""
+
+#: public/partials/user-account-form.php:209
+msgid "Update Profile"
+msgstr ""
+
+#: public/partials/user-account-form.php:211
+#: templates/custom-register-form.php:20
+msgid "Logout"
+msgstr ""
+
+#: public/partials/user-login-form.php:38
+msgid "Remember Me"
+msgstr ""
+
+#: templates/custom-account-page.php:76
+msgid "Sorry, you are not allowed to edit this user."
+msgstr ""
+
+#: templates/custom-account-page.php:128
+msgid "Profile Updated"
+msgstr ""
+
+#: templates/custom-register-form.php:19
+msgid "You are already registered"
+msgstr ""

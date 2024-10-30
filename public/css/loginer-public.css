@@ -1,0 +1,125 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.custom-form, .entry .entry-content .custom-form {
+	width: 100%;
+	max-width: 100%;
+}
+.custom-form h2::before, .custom-form h1::before, #content .entry .entry-title::before, h1:not(.site-title)::before
+{
+	content: "";
+	background:transparent;
+	height: auto;
+	display: none;
+
+}
+.form-margin-collepsed {
+	height:0px;
+	width:0px;
+	overflow:hidden;
+	-webkit-margin-bottom-collapse: separate;
+}
+
+.custom-form form .form-row textarea {
+	resize: none !important;
+}
+.custom-form h2 {
+	text-align: center;
+}
+.custom-form form .form-row {
+	margin-bottom: 10px;
+	align-items: center;
+	vertical-align: middle;
+	align-content: center;
+}
+.custom-form form input[type="submit"],
+.custom-form form .button,
+.custom-form form .button:hover,
+.custom-form form .button:active {
+
+	margin: 8px 0;
+	text-align:center;
+	display: inline-block;
+}
+.custom-form form input {
+	/* font-weight: normal; */
+	text-align:left;
+}
+.custom-form .account form p,
+.custom-form .account form a.websiteUrl {
+	margin: 0 15px;
+}
+.custom-form a,
+.custom-form a:hover,
+.custom-form a:focus {
+	text-decoration: none;
+}
+.custom-form .login_table td {
+	padding: 10px 10px 10px 0;
+	vertical-align: top;
+	text-align: left;
+	border:none;
+}
+.custom-form .login_table th {
+	vertical-align: top;
+	text-align: left;
+	border:none;
+	padding: 10px 10px 10px 0;
+	width: 200px;
+}
+.custom-form label,
+.custom-form .alert{
+	margin: 0;
+}
+/* .custom-form .button,
+.custom-form .input,
+.custom-form p,
+.custom-form label {
+	padding: 0;
+} */
+.float-right{
+	float:right;
+}
+.float-left{
+	float:left;
+}
+.form-row
+{
+	display: grid;
+	flex-wrap: wrap;
+}
+.short{
+	padding:8px 0 8px 0;
+	background-color: #e35b5b;
+	font-weight: bold;
+}
+.good{
+	padding:8px 0 8px 0;
+	font-weight: bold;
+	background-color: #fbc5a9;
+}
+.strong
+{
+	padding:8px 0 8px 0;
+	font-weight: bold;
+	background-color: #c1e1b9;
+}
+.bad
+{
+	font-weight: bold;
+	padding:8px 0 8px 0;
+	background-color: #f78b53;
+}
+p.description, span.description {
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+}
+.alert-msg {
+	padding-left: 25px;
+}
+input::placeholder
+{
+	line-height: inherit !important;
+}
